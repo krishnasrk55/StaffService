@@ -27,7 +27,7 @@ public class StaffDetails {
 
     private String password;
 
-	public StaffDetails(String email, String password, StaffAddress address) {
+	public StaffDetails(String email, String password) {
 		super();
 		this.email = email;
 		this.password = password;
